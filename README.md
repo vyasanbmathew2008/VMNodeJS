@@ -38,6 +38,8 @@ npm init -y
 
 ```bash
 npm create vite@latest my-react-app
+```
+```bash
 cd my-react-app
 npm install
 npm run dev
